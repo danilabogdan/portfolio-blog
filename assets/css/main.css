@@ -514,7 +514,7 @@ btn:hover span {
     gap: var(--gap);
 }
 
-.older-posts-arrticle-image-wrapper,
+.older-posts-article-image-wrapper,
 .older-posts .article {
     min-height: var(--item-min-height-sm);
 }
@@ -523,7 +523,7 @@ btn:hover span {
     background-color: var(--secondary-background-color);
 }
 
-.older-posts-arrticle-image-wrapper {
+.older-posts-article-image-wrapper {
     position: relative;
 }
 
